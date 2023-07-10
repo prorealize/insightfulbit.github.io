@@ -1,2 +1,3 @@
 # insightfulbit.github.io
-GitHub Page
+
+A simple static website with personal projects.
